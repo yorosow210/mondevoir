@@ -1,4 +1,3 @@
-// serveur.c
 #include "common.h"
 
 int main() {
